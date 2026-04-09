@@ -8,7 +8,7 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.pack.python-ruff" },
+  { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.markdown-and-latex.peek-nvim" },
